@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Ricardo-Moreno/desafio.git/static/css/main.073c9b0a.css",
+    "main.js": "/Ricardo-Moreno/desafio.git/static/js/main.87d5b362.js",
+    "static/js/787.b0807e75.chunk.js": "/Ricardo-Moreno/desafio.git/static/js/787.b0807e75.chunk.js",
+    "static/media/logo.svg": "/Ricardo-Moreno/desafio.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Ricardo-Moreno/desafio.git/index.html",
+    "main.073c9b0a.css.map": "/Ricardo-Moreno/desafio.git/static/css/main.073c9b0a.css.map",
+    "main.87d5b362.js.map": "/Ricardo-Moreno/desafio.git/static/js/main.87d5b362.js.map",
+    "787.b0807e75.chunk.js.map": "/Ricardo-Moreno/desafio.git/static/js/787.b0807e75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.87d5b362.js"
+  ]
+}
